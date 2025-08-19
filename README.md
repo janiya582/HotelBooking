@@ -10,3 +10,5 @@ A simple hotel booking platform built with HTML, CSS, and JavaScript.
 - HTML
 - CSS
 - JavaScript
+### 🏠 Homepage
+![Homepage Screenshot](Images2/Screenshot 2025-08-19 131003.png)
